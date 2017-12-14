@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 deploy:
   type: git
   repo: git@github.com:NatsuH/NatsuH.github.io.git
